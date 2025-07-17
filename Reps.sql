@@ -182,3 +182,5 @@ select distinct ADSCSrep,ADSCSCustServ,ADSCSRepContact,ADSDECORep,ADSDECOCustSer
    --select [REP_NO]=9059,[ACTIVE]=1,[REP_NAME]='DENZEL NORTHWEST',[CITY]='MEDINA',[STATE]='WA' FROM [SalesReps].[dbo].[XRefRepToRegion] where REP_NO in(289)
 
    --delete from [SalesReps].[dbo].[XRefRepToRegion] where Rep_NO=90599
+
+   --gdhgfjhgjfjydfhgf
